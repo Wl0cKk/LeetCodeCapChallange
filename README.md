@@ -2,6 +2,12 @@
 
 ## Goal - Earn enough coins until New Year
 
+<div align="center">
+
+[![LeetCoin Calculator](https://img.shields.io/badge/LeetCoin_Calculator-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://leetcoin-calculator.vercel.app/)
+
+</div>
+
 ---
 
 <img width="1069" height="836" alt="image" src="https://github.com/user-attachments/assets/6c21f848-a1b3-47a9-b13a-ea1a7aa0e822" />
