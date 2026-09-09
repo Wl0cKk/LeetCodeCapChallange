@@ -18,6 +18,7 @@
 
 - [x] Daily 1/117 – https://leetcode.com/submissions/detail/2132777057/ +11 💰
 - [x] Daily 2/117 - https://leetcode.com/submissions/detail/2134450308/ +11 💰 +10 Lucky button
+- [x] Daily 3/117 – https://leetcode.com/submissions/detail/2136821994/ +11 💰
 
 ---
 
