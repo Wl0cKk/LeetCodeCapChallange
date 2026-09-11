@@ -17,12 +17,12 @@
 ---
 
 - [x] Daily 1/117 – https://leetcode.com/submissions/detail/2132777057/ +11 💰
-- [x] Daily 2/117 - https://leetcode.com/submissions/detail/2134450308/ +11 💰 +10 Lucky button
+- [x] Daily 2/117 – https://leetcode.com/submissions/detail/2134450308/ +11 💰 +10 Lucky button
 - [x] Daily 3/117 – https://leetcode.com/submissions/detail/2136821994/ +11 💰    
 <img width="900" height="1602" alt="image" src="https://github.com/user-attachments/assets/06fa01f8-3d41-4f2d-83a8-57599e5f047e" />
 
 - [x] Daily 4/117 – https://leetcode.com/submissions/detail/2137977348/ +11 💰
-- [x] Daily 5/117 - https://leetcode.com/submissions/detail/2138042579/ +11 💰
+- [x] Daily 5/117 – https://leetcode.com/submissions/detail/2138042579/ +11 💰
 
 
 ---
