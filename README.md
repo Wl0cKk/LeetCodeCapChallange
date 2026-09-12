@@ -23,6 +23,7 @@
 
 - [x] Daily 4/117 – https://leetcode.com/submissions/detail/2137977348/ +11 💰
 - [x] Daily 5/117 – https://leetcode.com/submissions/detail/2138042579/ +11 💰
+- [x] Daily 6/117 – https://leetcode.com/submissions/detail/2139998030/ +11 💰
 
 
 ---
