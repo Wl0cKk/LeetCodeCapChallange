@@ -26,7 +26,7 @@
 - [x] Daily 6/117 – https://leetcode.com/submissions/detail/2139998030/ +11 💰
 - [x] Dailt 7/117 – https://leetcode.com/submissions/detail/2140753955/ +11 💰
 
-# 13/09/2026 - 5079
+# 13/09/2026 - 5079 Points
 
 ---
 
