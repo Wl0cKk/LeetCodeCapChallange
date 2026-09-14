@@ -24,10 +24,15 @@
 - [x] Daily 4/117 – https://leetcode.com/submissions/detail/2137977348/ +11 💰
 - [x] Daily 5/117 – https://leetcode.com/submissions/detail/2138042579/ +11 💰
 - [x] Daily 6/117 – https://leetcode.com/submissions/detail/2139998030/ +11 💰
-- [x] Daily 7/117 – https://leetcode.com/submissions/detail/2140753955/ +11 💰
-- [x] Daily 8/117 – https://leetcode.com/submissions/detail/2141751731/ +11 💰
 
 # 13/09/2026 - 5079 Points
+
+- [x] Daily 7/117 – https://leetcode.com/submissions/detail/2140753955/ +11 💰
+- [x] Daily 8/117 – https://leetcode.com/submissions/detail/2141751731/ +11 💰 +10 Lucky button
+
+# 15/09/2026 – 5100 Points
+
+
 
 ---
 
