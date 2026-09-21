@@ -34,7 +34,9 @@
 
 # 15/09/2026 – 5100 Points
 
+- [x] Daily 10/117 – https://leetcode.com/submissions/detail/2148757425/ +11 💰
 
+# 21/09/2026 – 5130 Points
 
 ---
 
