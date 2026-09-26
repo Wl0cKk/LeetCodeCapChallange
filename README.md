@@ -38,6 +38,26 @@
 
 # 21/09/2026 – 5130 Points
 
+- [x] Daily 11/117 – https://leetcode.com/submissions/detail/2149242291/ +11 💰
+- [x] Daily 12/117 – https://leetcode.com/submissions/detail/2149800630/ +11 💰
+- [x] Daily 13/117 – https://leetcode.com/submissions/detail/2150221664/ +11 💰
+- [x] Daily 14//17 – https://leetcode.com/submissions/detail/2150222483/ +11 💰
+- [x] Daily 15/117 – https://leetcode.com/submissions/detail/2151957263/ +11 💰
+
+<img width="900" height="1602" alt="image" src="https://github.com/user-attachments/assets/cf61106c-d2f4-47b0-a12e-258f1f1b1f50" />
+
+
+### I actually forgot what the daily tasks were, so I'll just insert the coin count for the sake of the report.
+
+---
+
+- [x] 26/09/2026 – 5185 Points
+      
+#Current status:
+<img width="1048" height="810" alt="image" src="https://github.com/user-attachments/assets/52d73eae-78f5-4c2f-a065-626148cdc421" />
+
+
+---
 ---
 
 <div align="center">
